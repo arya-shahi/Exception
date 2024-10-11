@@ -18,3 +18,8 @@ catch(float num){
 }
     return 0;
 }
+
+/*
+Enter the values of numbers 1 and 2: 12 13
+The answer is 0.923077
+    */
