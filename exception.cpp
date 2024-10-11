@@ -31,3 +31,7 @@ int main() {
     return 0;
 }
 
+/*
+Enter your age: 19
+Accepted
+    */
